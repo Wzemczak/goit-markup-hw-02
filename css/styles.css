@@ -59,6 +59,7 @@ a {
   letter-spacing: 0.03em;
 
   text-align: center;
+  cursor: pointer;
 }
 .button-filter:hover,
 .button-filter:focus {
@@ -112,6 +113,7 @@ a {
   background-color: var(--brand-color);
   border: none;
   color: #fff;
+  cursor: pointer;
 }
 .slogan {
   font-weight: 900;
